@@ -1,0 +1,136 @@
+{
+    "area1": [
+        {
+            "name": "bird",
+            "sprite": "birdBattleSprite",
+            "level": 1,
+            "EXP": 10,
+            "maxHP": 10,
+            "ATK": 2,
+            "SPEED": 10
+        },
+
+        {
+            "name": "blue slime",
+            "sprite": "slimeBattleSprite",
+            "level": 1,
+            "EXP": 20,
+            "maxHP": 20,
+            "ATK": 5,
+            "SPEED": 5
+        },
+        {
+            "name": "spider",
+            "sprite": "spiderBattleSprite",
+            "level": 1,
+            "EXP": 15,
+            "maxHP": 5,
+            "ATK": 2,
+            "SPEED": 100
+        }
+
+
+    ],
+
+    "area2": [
+        {
+            "name": "bear",
+            "sprite": "bearBattleSprite",
+            "level": 1,
+            "EXP": 30,
+            "maxHP": 60,
+            "ATK": 20,
+            "SPEED": 10
+        },
+
+        {
+            "name": "zomblie",
+            "sprite": "zomblieBattleSprite",
+            "level": 1,
+            "EXP": 10,
+            "maxHP": 20,
+            "ATK": 8,
+            "SPEED": 1
+        },
+
+        
+        {
+            "name": "ghost",
+            "sprite": "ghostBattleSprite",
+            "level": 1,
+            "EXP": 15,
+            "maxHP": 20,
+            "ATK": 1,
+            "SPEED": 8
+        },
+        {
+            "name": "snake",
+            "sprite": "snakeBattleSprite",
+            "level": 1,
+            "EXP": 25,
+            "maxHP": 21,
+            "ATK": 5,
+            "SPEED": 30
+        }
+    ],
+
+    "area3": [
+        {
+            "name": "red dragon",
+            "sprite": "dragonBattleSprite",
+            "level": 1,
+            "EXP": 100,
+            "maxHP": 100,
+            "ATK": 30,
+            "SPEED": 20
+        },
+
+        {
+            "name": "goblin",
+            "sprite": "goblinBattleSprite",
+            "level": 1,
+            "EXP": 15,
+            "maxHP": 40,
+            "ATK": 20,
+            "SPEED": 20
+        },
+
+        
+        {
+            "name": "bat",
+            "sprite": "batBattleSprite",
+            "level": 1,
+            "EXP": 10,
+            "maxHP": 25,
+            "ATK": 15,
+            "SPEED": 30
+        },
+        {
+
+            "name": "cave spider",
+            "sprite": "spiderBattleSprite",
+            "level": 1,
+            "EXP": 20,
+            "maxHP": 20,
+            "ATK": 8,
+            "SPEED": 100
+        },
+
+        {
+
+            "name": "skeleton",
+            "sprite": "skeletonBattleSprite",
+            "level": 1,
+            "EXP": 20,
+            "maxHP": 1,
+            "ATK": 25,
+            "SPEED": 1
+        }
+
+
+
+
+
+        
+    ]
+}
